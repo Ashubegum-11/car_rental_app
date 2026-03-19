@@ -69,6 +69,3 @@ These sample accounts are included in `car_rental.sql`:
 - The available cars page is accessible even without login.
 - If a logged-out user tries to rent a car, they are directed to login.
 
-## Submission Note
-
-This repository includes the SQL file required to replicate the database.
